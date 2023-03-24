@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjfj10SYCMiMiZRSfEyE8qfsJXjnVUW+MMbYzYuN1v02qRe90jSxSovTKK6qykPXaeFp2ad6a6yBmEOBO/zkyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YK00555\\source\\repos\\ConvertImage\\ConvertImage\\ConvertImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YK00555\\.nuget\\packages\\magick.net-q16-anycpu\\12.2.0\\magick.net-q16-anycpu.12.2.0.nupkg.sha512",
+    "C:\\Users\\YK00555\\.nuget\\packages\\magick.net.core\\12.2.0\\magick.net.core.12.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
